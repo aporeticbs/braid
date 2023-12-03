@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Fix TypeError in check_cfg() (#9245)
